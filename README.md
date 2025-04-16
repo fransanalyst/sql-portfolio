@@ -18,10 +18,12 @@ Soy Analista de Datos con formación en Electrónica Industrial, Coaching Empres
 
 ## 📁 Proyectos
 
- **Proyecto 1. Data Cleaning con SQL** 
+ **Proyecto 1. Data Cleaning con SQL**
+ 
  **Proyecto 2. Análisis Exploratorio (EDA) con SQL**
 
-Cada proyecto se encuentra organizado en su propia carpeta e incluye:
+Cada proyecto incluye:
+
 - Scripts SQL comentados
 - Descripción del proyecto
 - Resultados o ejemplos (si aplica)
