@@ -30,7 +30,7 @@ Cada proyecto incluye:
 
 ## 📌 Cómo navegar
 
-Puedes explorar cada carpeta para ver cómo abordo distintos desafíos usando SQL. Todos los scripts están organizados y comentados para facilitar la lectura y comprensión.
+Todos los scripts están organizados y comentados para facilitar la lectura y comprensión.
 
 ## 📬 Contacto
 
