@@ -2,6 +2,8 @@
 
 ¡Bienvenid@! Este repositorio reúne varios proyectos en SQL que demuestran mis habilidades en limpieza de datos, análisis exploratorio y resolución de problemas con datos reales o simulados.
 
+Este repositorio se irá actualizando con más proyectos.
+
 ## 👩‍💻 Sobre mí
 
 Soy Analista de Datos con formación en Electrónica Industrial, Coaching Empresarial y Emprendimientos. Realicé una especialización en Data Analytics y cursos en Business Analytics, además de mi aprendizaje autodidacta. Me apasiona aprender, resolver problemas y transformar datos en decisiones de valor mediante el análisis.
